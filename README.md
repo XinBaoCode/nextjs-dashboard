@@ -1,5 +1,7 @@
 ## Next.js App Router Course - Starter
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+学习链接: [NextJs中文教程](https://qufei1993.github.io/nextjs-learn-cn/)
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+登入账号：user@nextmail.com
+密码： 123456
+
